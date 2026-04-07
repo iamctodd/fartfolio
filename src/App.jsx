@@ -375,6 +375,8 @@ function MainApp({ user, profile }) {
     setPressed(true);
     setTimeout(() => setPressed(false), 180);
 
+    new Audio("https://www.myinstants.com/media/sounds/fast-fart.mp3").play();
+
     const id = ++pId.current;
     setParticles(p => [...p, id]);
     jokeIdx.current = (jokeIdx.current + 1) % JOKES.length;
