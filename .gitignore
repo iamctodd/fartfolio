@@ -1,5 +1,6 @@
 .env
 .env.*
+data.md
 
 # Logs
 logs
