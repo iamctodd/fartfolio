@@ -6,7 +6,7 @@
 
 **Live app → [fartfolio-green.vercel.app](https://fartfolio-green.vercel.app)**
 
-<img width="446" height="717" alt="imagen" src="https://github.com/user-attachments/assets/5f960988-6c3e-45fc-8b99-2efe1cc30ade" />
+<img width="377" height="816" alt="imagen" src="https://github.com/user-attachments/assets/95bbbf7a-d654-40c9-b69c-af5925d3c674" />
 
 ---
 
